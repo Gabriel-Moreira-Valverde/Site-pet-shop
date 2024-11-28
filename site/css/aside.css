@@ -1,0 +1,16 @@
+aside {
+    margin-left: 5vh;
+}
+
+aside h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: #E8903C;
+}
+
+aside p {
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 8vh;
+}

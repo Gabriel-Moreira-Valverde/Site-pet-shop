@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    box-sizing: border-box; 
+    padding-top: 90px;
+    background-image:radial-gradient(circle, transparent, rgba(0, 0, 0, 0.1)), url(..//cachorro.jpg);
+    height: 100vh;
+    background-size: cover  ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
